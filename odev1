@@ -1,0 +1,34 @@
+#int = Tam sayıları için kullanılır.
+#float = Ondalıklı sayılar için kullanılır.
+#double = Ondalıklı sayılar için kullanılır
+#str = Metinsel veya karakter öğeleri için kullanılır.
+#bool = Mantıksal veriler için kullanılır
+#list = [] ile gösterilir.Birden fazla aynı ya da farklı türden veriler için kullanılır.
+#Tuple = liste ile hemen hemen aynıdır tek farkı tuple içerisindeki veriler değiştirilemez.
+#dict (sözlük) = key value ilişkisine göre verileri tutar.
+
+
+
+
+void main(){
+
+int basla = 1;
+
+
+if(basla == 1){
+    print("AMAÇ :  ÖDEV TANIMI: ");
+}
+if(bitirVeDevamEt == 1){
+    print("bir sonrakı ders ekranı");
+}
+
+
+
+String kullanici ;
+var sifre:
+if(kullanici == Buse){
+    if(sifre == 12345){
+        print("Giriş Başarılı");
+    }
+}
+}
